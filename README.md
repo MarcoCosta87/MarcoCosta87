@@ -1,4 +1,4 @@
-### Hi there , my Name Marco!!!👋
+### Hi there 👋
 
 <!--
 **MarcoCosta87/MarcoCosta87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
