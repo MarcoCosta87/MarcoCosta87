@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 ### Onde me encontrar 💻📱 ...
 [![Linkedin: Marco](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marco-costa-417549199/)](https://www.linkedin.com/in/marco-costa-417549199/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcoacj018@gmail.com)](mailto:marcoacj018@gmail.com)
+
 
 ## ⚡ Tecnologias em aprendizagem.....
 
