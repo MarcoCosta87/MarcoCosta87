@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcoacj018@gmail.com)](mailto:marcoacj018@gmail.com)
 
 
-## ⚡ Tecnologias em aprendizagem.....
+## ⚡ Tecnologias .....
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
