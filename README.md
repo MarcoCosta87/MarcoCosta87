@@ -20,9 +20,3 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcoacj018@gmail.com)](mailto:marcoacj018@gmail.com)
 
 
-### ⚡ Tecnologias 
-
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
